@@ -1,2 +1,2 @@
 # pictochatr-designs
-The Sketch designs for the application Pictochat
+The Sketch designs for the application Pictochat. More information will be uploaded when application is complete....
